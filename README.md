@@ -1,8 +1,8 @@
 # Mirror
 
-https://mirror.turbowarp.xyz/
+https://matthewyang204.github.io/Turbowarp-mirror/
 
-These are some scripts for making mirrors of [TurboWarp](https://turbowarp.org/).
+These are some scripts for making mirrors of [TurboWarp](https://matthewyang204.github.io/Turbowarp-mirror/).
 
 ## How to make your own mirror
 
